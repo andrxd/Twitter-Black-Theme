@@ -1,0 +1,17 @@
+{    
+"name": "Twitter Black",
+"version": "1.0",
+"description": "Makes Twiiter Black",
+"manifest_version": 2,
+"permissions": ["http://www.twitter.com/", "http://twitter.com/"],
+   "content_scripts": [
+		{
+		  "matches": ["http://twitter.com/","http://twitter.com/*",
+		  "https://twitter.com/","https://twitter.com/*"], 
+		  "css": ["css.css"],
+		  "js": ["script.js"],
+		  "all_frames": true
+		}
+	],
+	"web_accessible_resources": ["css.css"]
+}

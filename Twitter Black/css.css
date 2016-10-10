@@ -1,0 +1,76 @@
+body{
+	background-color:#1B1B1B !important;
+}
+
+.global-nav-inner,.ProfileCanopy-navBar{	
+	background-color:#222222 !important;
+	border-bottom-color:  #000000 !important;
+}
+.dropdown-menu,.ProfileNav-item--userActions{
+		background-color:#222222 !important;
+}
+.Trends,.ProfileHeading-content, .module, .trends, .flex-module,.WhoToFollow  {
+	
+	background-color:#222222 !important;
+	border-color:#000000 !important;
+}
+.u-textInheritColor, .fullname{	
+	color:#ffffff !important;	
+}
+
+.content-main,.ProfileHeading-toggle,.ProfileNav-item .ProfileNav-item--userActions .u-floatRight .u-textRight .with-rightCaret , .stream-container, .stream, .tweet, .js-stream-tweet, .js-actionable-tweet, .js-profile-popup-actionable,
+       .original-tweet, .js-original-tweet, .has-cards,  .has-content
+{
+	background-color:#222222 !important;
+	border-color:#000000 !important;
+	border-left-color:  #000000 !important;
+	border-right-color:#000000 !important;
+}
+ .js-tweet-text, .tweet-text,.ProfileHeading-toggleItem,.ProfileNav-value,b,s,p,span{
+	 
+	color:#8899a6 !important;
+	border-left-color: #000000 !important;
+	border-right-color: #000000 !important;
+	 
+ }
+
+.content-main, .top-timeline-tweetbox,.timeline-tweet-box,#stream-items-id,.visuallyhidden{
+	border-color:#000000 !important;
+	border-left-color: #000000 !important;
+	border-right-color:  #000000 !important;
+}
+
+
+
+.tweet.js-stream-tweet.js-actionable-tweet.js-profile-popup-actionable.has-cards.conversation-root.conversation-tweet.has-content{
+	border-color:#000000 !important;
+	border-left-color: #000000 !important;
+	border-right-color: #000000 !important;
+}
+
+.stream-item:not(.no-header-background-module){
+	
+	border-left-color: #000000 !important;
+	border-right-color: #000000 !important;
+}
+
+.TwitterCardsGrid, .TwitterCard-container{
+	border-color:#000000 !important;
+	color:#66757f;
+	
+}
+
+.js-stream-item, .scroll-bump-user-card, .ProfileCard, .js-actionable-user{
+	border-color:#000000 !important;
+	background-color:#222222 !important;
+}
+
+.DashboardProfileCard-bg{
+	
+	border-bottom-color:#000000;
+}
+
+.ProfilePage{
+	
+	background-color:#222222 !important;
+}
